@@ -15,7 +15,7 @@ The fifth homework for the bootcamp, including the following features:
 
 Below see pictures of the site:
 1. Displaying previously logged items and color coding entries per current time
-![Website Top](https://github.com/rpupo7322/HW4_CodeQuiz/blob/main/WebsitePics/Title%20Page.PNG)
-![Website Bottom](https://github.com/rpupo7322/HW4_CodeQuiz/blob/main/WebsitePics/Title%20Page.PNG)
+![Website Top](https://github.com/rpupo7322/HW5_ThirdPartyAPIs/blob/main/applicationPics/WebsiteTop.PNG)
+![Website Bottom](https://github.com/rpupo7322/HW5_ThirdPartyAPIs/blob/main/applicationPics/WebsiteBotton_noteTheTime.PNG)
 2. Displaying currently logged entries in local storage
-![Local Storage](https://github.com/rpupo7322/HW4_CodeQuiz/blob/main/WebsitePics/Title%20Page.PNG)
+![Local Storage](https://github.com/rpupo7322/HW5_ThirdPartyAPIs/blob/main/applicationPics/LocalStorageValues.PNG)
